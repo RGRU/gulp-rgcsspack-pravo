@@ -1,0 +1,32 @@
+{
+  "name": "gulp-rgcsspack-pravo",
+  "version": "1.0.0",
+  "description": "CSS Plugin for Gulp from rg.ru developers",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RGRU/gulp-rgcsspack-pravo.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "gulp-rgswig-pravo",
+    "swig"
+  ],
+  "author": "RGRU",
+  "bugs": {
+    "url": "https://github.com/RGRU/gulp-rgcsspack-pravo/issues"
+  },
+  "dependencies": {
+    "event-stream": "~3.0.15",
+    "extendify": "^0.1.0",
+    "gulp": "~3.5.1",
+    "gulp-util": "^3.0.7",
+    "lodash": "^3.10.1",
+    "mkdirp": "^0.5.1"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "homepage": "https://github.com/RGRU/gulp-rgcsspack-pravo#readme"
+}
